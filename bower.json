@@ -2,12 +2,12 @@
   "name": "polymer-essential",
   "main": "polymer-essential.html",
   "dependencies": {
-    "polymer": "Polymer/polymer#^2.0.0-rc.2"
+    "polymer": "Polymer/polymer#^2.0.0-rc.3"
   },
   "devDependencies": {
-    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0-rc.5"
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0-rc.6"
   },
   "resolutions": {
-    "polymer": "^2.0.0-rc.2"
+    "polymer": "^2.0.0-rc.3"
   }
 }
