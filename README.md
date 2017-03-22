@@ -1,2 +1,2 @@
 # polymer-essential
-Minimalistic Polymer 2 Project Setup
+minimalistic polymer 2 project setup with browsersync

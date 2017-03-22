@@ -1,0 +1,37 @@
+<link rel="import" href="polymer/polymer-element.html">
+<dom-module id="polymer-essential">
+  <template>
+    <style>
+      :host {
+        display: block;
+        padding: 10px 20px;
+      }
+    </style>
+
+  <slot></slot>
+  <div>{{message}}</div>
+  <div>Greetings: {{greetings}}</div>
+  </template>
+
+  <script>
+    class PolymerEssential extends Polymer.Element {
+      constructor(){
+        super();
+        this.greetings = "Hello, it seems to work";
+      }
+
+      static get properties() {
+        return {
+          message: {
+            type: String,
+            value: '--not set--'
+          }
+        };
+      }      
+      static get is() { return 'polymer-essential'; }
+      
+    }
+
+    window.customElements.define(PolymerEssential.is, PolymerEssential);
+  </script>
+</dom-module>

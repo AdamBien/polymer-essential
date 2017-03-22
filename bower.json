@@ -1,0 +1,13 @@
+{
+  "name": "polymer-essential",
+  "main": "polymer-essential.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0-rc.2"
+  },
+  "devDependencies": {
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0-rc.5"
+  },
+  "resolutions": {
+    "polymer": "^2.0.0-rc.2"
+  }
+}
