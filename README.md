@@ -12,4 +12,4 @@ minimalistic polymer 2 project setup with browsersync
 
 See you at: [Building HTML 5 webapps with vanilla web standards](http://workshops.adam-bien.com/web-essentials.htm)
 
-[Also checkout: adambien.blog/roller/abien/entry/polymer_2_0_with_browsersync](http://adambien.blog/roller/abien/entry/polymer_2_0_with_browsersync)
+Also checkout: [adambien.blog/roller/abien/entry/polymer_2_0_with_browsersync](http://adambien.blog/roller/abien/entry/polymer_2_0_with_browsersync)
